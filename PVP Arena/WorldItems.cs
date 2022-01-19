@@ -10,5 +10,6 @@ namespace PVP_Arena
     {
         int i = 0;
         int j = 0;
+        string k = " ";
     }
 }
