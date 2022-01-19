@@ -54,6 +54,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="iClass.cs" />
     <Compile Include="ind_items.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="item.cs" />
