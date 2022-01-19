@@ -12,6 +12,5 @@ namespace PVP_Arena
         BACKWART,
         RIGHT,
         LEFT
-
     }
 }
