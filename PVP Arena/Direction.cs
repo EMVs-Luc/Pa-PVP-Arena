@@ -11,7 +11,6 @@ namespace PVP_Arena
         FORWART,
         BACKWART,
         RIGHT,
-        LEFT,
-        Lustig
+        LEFT
     }
 }
